@@ -1,6 +1,8 @@
 # Indoor vs. Outdoor Photo Classifier using Transfer Learning with Inception V3
 
-![Indoor vs. Outdoor Photo Classifier](tmp/readme_resources/looking_out_window_1.jpeg)
+<p align="center">
+    <img src="tmp/readme_resources/looking_out_window_1.jpeg" alt="Image" width="285" height="177" />
+</p>
 
 This repository contains a machine learning project that aims to classify indoor and outdoor photos using transfer learning with the Inception V3 model. The Inception V3 model is a deep convolutional neural network (CNN) that has been pre-trained on a large dataset, making it a powerful feature extractor for image classification tasks.
 
@@ -71,11 +73,15 @@ Feel free to experiment with hyperparameters, different optimizers, and learning
 
 My model achieved a 98.20% training accuracy and an even better 99 .61% validation accuracy:
 
-![Training Plot](tmp/readme_resources/train-val-accuracy.png)
+<p align="center">
+    <img src="tmp/readme_resources/train-val-accuracy.png" alt="Image" width="556" height="433" />
+</p>
 
 Here are some sample predictions I made using the model:
 
-![Sample Predictions](tmp/readme_resources/sample_predictions.PNG)
+<p align="center">
+    <img src="tmp/readme_resources/sample_predictions.PNG" alt="Image" width="339" height="1129" />
+</p>
 
 ## Contributing
 
